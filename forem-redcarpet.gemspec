@@ -15,5 +15,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'nokogiri'
   s.add_dependency 'redcarpet'
-  s.add_dependency 'pygments.rb', '0.5.4'
+  s.add_dependency 'pygments.rb'
 end
